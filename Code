@@ -1,0 +1,2 @@
+while True: 
+    s = input("Enter symbols:")
